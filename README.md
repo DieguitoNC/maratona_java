@@ -22,3 +22,27 @@
 float salarioFloat = 2500.0f;
 ```
 ### string é uma classe no java
+- Como toda classe, começa com maiuscula
+## Operadores Aritimeticos
+- No java, a divisao de 2 numeros inteiros, sempre vai ser inteiro. mesmo se for algo como 1/2 = 0.5. Vai retornar 0
+- Tem que declarar a variável como double para isso não ocorrer !
+## Operadores Relacionais !
+- Com relacao a <> <= >= == != seguem a mesma logica de outras linguagens, nada de novo !
+## Operadores 
+-  = += -= *= /= %=
+- -- ++
+- O segundo tipo, podemos colocar no comeco ou no final
+```
+contador--
+--contador
+```
+
+## Estruturas condicionais 
+- IF igual no JS
+- Else if igual no js / python tbm
+## Operador Ternario
+- Consigo escrever em uma linha
+- Bom pra usar em um IF e Else ou seja, condicao simples
+```
+String resultado = (condicao) ? verdadeiro : falso;
+```
